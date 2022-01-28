@@ -1,0 +1,12 @@
+.signin{
+    margin: 5% auto 10% auto;
+justify-content: center;
+align-items: center;
+
+}
+.input{
+    margin: 5px;
+}
+.color-back{
+    background-color: rgb(117, 176, 243);
+}

@@ -1,0 +1,34 @@
+.item-size{
+    font-weight: bold;
+    font-size: 20px;
+}
+.logo-link{
+    display: flex;
+}
+.logo-link h1{
+    font-family: cursive;
+    font-weight: bold;
+}
+.img-logo{
+    height: 60px;
+    width: 60px;
+    margin: 0px 20px 0px 40px;
+}
+.resize-item{
+    /* margin: 0 auto; */
+    justify-content: end;
+    margin-right: 4%;
+}
+.name-u{
+    color: white;
+    margin: 0 10px;
+    font-size: 18px;
+}
+.log-out{
+    padding: 5px 10px;
+    background-color: rgb(41, 89, 219);
+    color: white;
+}
+.user-name{
+    margin-left: 10px;
+}

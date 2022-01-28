@@ -1,0 +1,12 @@
+.makeadmin{
+    margin: 100px;
+}
+ input{
+    width: 30%;
+    padding: 5px;
+    
+}
+.makeadmin button{
+    background-color: rgb(33, 74, 255);
+    margin: 0 10px;
+}

@@ -1,0 +1,19 @@
+.about-container{
+    margin: 20px;
+    width: 70%;
+    margin-left: 15%;
+}
+.welcome-color{
+    margin: 40px 0;
+    color: rgb(10, 94, 230);
+}
+.mail-color{
+    color: rgb(209, 50, 22);
+}
+.descirption{
+    margin: 40px 0;
+    color: rgb(46, 89, 170);
+}
+.color-back{
+    background-color: rgb(117, 176, 243);
+}

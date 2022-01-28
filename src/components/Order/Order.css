@@ -1,0 +1,29 @@
+.card-style{
+    margin: 50px auto;
+    width: 50%;
+}
+.card-style img{
+    height: 50%;
+    width: 50%;
+}
+.card-style h1,p,h3{
+    padding: 10px;
+}
+.button-cl{
+    border-radius: 5px;
+    background-color: rgba(245, 66, 35, 0.986);
+    color: white;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+.addorder form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.addorder form input, textarea {
+    width: 80%;
+    margin-bottom: 10px;
+}

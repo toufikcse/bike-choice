@@ -1,0 +1,43 @@
+.page-container{
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    margin: 5% 0% 5% 25%;
+}
+.page-container h1{
+    margin-bottom: 5%; 
+    color: blue;  
+}
+.disp{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+.disp label{
+    height: 40px;
+    width: 100px;
+    font-weight: 600px;
+    font-size: 20px;
+
+}
+.disp input{
+    height: 5%;
+    width: 70%;
+    margin-left: 2%;
+}
+.disp-block{
+    display: inline;
+}
+.cheak-box{
+    padding: 20px;
+}
+.agree-width{
+    margin-left: 20px;
+}
+.text-ar{
+    margin-left: 12px;
+}
+.color-back{
+    background-color: rgb(117, 176, 243);
+}

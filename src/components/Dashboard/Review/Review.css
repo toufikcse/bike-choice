@@ -1,0 +1,18 @@
+.review-form{
+    margin: 60px auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.review-form textarea {
+    width: 80%;
+    margin-bottom: 10px;
+}
+.buttoncl{
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: rgba(255, 62, 14, 0.986);
+    color: white;
+    padding: 5px 20px;
+    font-size: 18px;
+}

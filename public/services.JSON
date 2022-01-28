@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "img": "https://image.freepik.com/free-photo/close-up-portrait-focused-young-male-doctor_171337-5152.jpg",
+        "name": "Diagnostic Lab",
+        "description": "Our Diagnostic lab very famous in dhaka. Many kinds of tests are done here. Our Diagnostic lab very famous in dhaka. Many kinds of tests are done here."
+    },
+    {
+        "id": "2",
+        "img": "https://image.freepik.com/free-photo/asian-young-main-group-hospital-professional_1291-37.jpg",
+        "name": "Doctors",
+        "description": "Renowned doctors of Dhaka treat here. Renowned doctors of Dhaka treat here"
+    },
+    {
+        "id": "3",
+        "img": "https://image.freepik.com/free-photo/african-man-caucasian-woman-pharmacists-are-posing-near-table-with-cashbow-apothecary_161094-12.jpg",
+        "name": "Pharmecy",
+        "description": "All kinds of local and foreign medicines are available in our pharmacy. All kinds of local and foreign medicines are available in our pharmacy"
+    },
+    {
+        "id": "4",
+        "img": "https://image.freepik.com/free-vector/set-doctors-operating-medical-equipment-examining-patients_74855-3740.jpg",
+        "name": "Test Machinarise",
+        "description": "Our diagnostic machines diagnose the disease in a very accurate way. Our diagnostic machines diagnose the disease in a very accurate way"
+    },
+    {
+        "id": "5",
+        "img": "https://image.freepik.com/free-photo/professional-dentist-tools-chair-dental-office_128319-10.jpg",
+        "name": "Dentist Lab",
+        "description": "Our Dentist Lab diagnose the disease in a very accurate way. Our Dentist Lab diagnose the disease in a very accurate way"
+    },
+    {
+        "id": "6",
+        "img": "https://img.freepik.com/free-photo/portrait-surgeons-performing-operation-operation-room_1170-2230.jpg?size=626&ext=jpg",
+        "name": "Surgery",
+        "description": "Surgery is performed by an experienced doctor in our surgery department. Surgery is performed by an experienced doctor in our surgery department"
+    }
+]
